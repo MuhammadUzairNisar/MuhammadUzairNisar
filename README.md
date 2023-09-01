@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammaduzairnisar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaduzairnisar" /> </p>
 
-- 🔭 I’m currently working on **DukaanWala,Valtex**
+- 🔭 I’m currently working on **DukaanWala,Vaultex**
 
 - 📫 How to reach me **muhammaduzairnisar01@gmail.com**
 
